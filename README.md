@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at GECBH...
-- 🌱 I’m currently learning B.Tech in Electrical ...
+- 🌱 I’m an aspiring B.Tech student
+- "Sky is the limit" is my motto
 
 -->
